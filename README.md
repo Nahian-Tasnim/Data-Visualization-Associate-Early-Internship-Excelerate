@@ -3,4 +3,4 @@ It contains all the weekly deliverable I've submitted during my virtual internsh
 ## Tools used:
 Postgres, Looker studio, MS-excel
 ## Language:
-sql
+SQL
